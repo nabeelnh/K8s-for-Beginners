@@ -1,0 +1,1 @@
+This application (voting_app_deployment_remote) will be deployed remotely as oppose to voting_app_deployment
